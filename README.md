@@ -17,11 +17,9 @@
 
 <br>
 
-<a href="https://github.com/padonan/github-readme-stats">
+<a href="https://github-readme-stats.vercel.app/api?username=padonan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=padonan&repo=github-readme-stats" />
 </a>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=padonan)](https://github.com/anuraghazra/github-readme-stats)
   
 <br>
 
