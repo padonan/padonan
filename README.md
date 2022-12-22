@@ -17,7 +17,7 @@
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=padonan)](https://github.com/padonan/blob/main/README.md)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=padonan)](https://github.com/padonan/padonan)
 
 <br>
 
