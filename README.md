@@ -1,30 +1,29 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Padonan&fontSize=70&animation=twinkling)
+<div align="center">
+  <a href="https://github.com/padonan">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=white&height=230&section=header&text=💻%20padonan&fontColor=FFFFFF">
+  </a>
 
-<p align="center">🇰🇷 🇦🇺 🇸🇬</p>
-
-<h3 align="center">🛠 Tech Stack 🛠</h3>
-
-<p align="center"> Techs that I've used at developing </p>
-
-<p align="center">
+  <div>
+    <h1>⚒️ Tech Stack ⚒️</h1>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>&nbsp
-</p>
-
-<br>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=padonan)](https://github.com/padonan/padonan)
-
-<br>
-
-
-<h3 align="center"> 🧸 Contact 🧸 </h3>
-<p align="center">
-  <a href="mailto:bbde1861@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=bbde1861@gmail.com"/></a>
-</p>
-<br>
-
+  </div>
+  <br/>
+  <div align="center">
+    <div>
+      <h3>💡 My Most Used Language 💡</h3>
+      <a href="https://github.com/padonan">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=padonan&layout=compact&show_icons=true&hide_title=true&theme=nord" />
+      </a>
+    </div>
+    <div>
+      <a href="https://github.com/padonan">
+      <img src="https://github-readme-stats.vercel.app/api?username=padonan&show_icons=true">
+      </a>
+    </div>
+  </div>
+</div>
 
