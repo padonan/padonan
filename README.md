@@ -13,13 +13,13 @@
   </div>
   <br/>
   <div align="center">
-    <div>
+<!--     <div>
       <h3>💡 My Most Used Language 💡</h3>
       <a href="https://github.com/padonan">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=padonan&layout=compact&show_icons=true&hide_title=true&theme=nord" />
       </a>
     </div>
-    <div>
+    <div> -->
       <a href="https://github.com/padonan">
       <img src="https://github-readme-stats.vercel.app/api?username=padonan&show_icons=true">
       </a>
